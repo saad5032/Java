@@ -1,7 +1,9 @@
 package java_ch1_variables;
 
+// This is chapter 1 variables.
+
 public class variables1 {
-   
+
     // variable declaration statement : we are declaring variable with datatype-int, name - x and assigning it to value - 10
     int x = 10;  // here 10 is int literal as literal is single value of int/string/char
     
