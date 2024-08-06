@@ -1,6 +1,5 @@
 package java_ch1_variables;
 
-// This is chapter 1 variables.
 
 public class variables1 {
 
